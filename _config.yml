@@ -1,0 +1,28 @@
+name: fibaro
+favicon: null
+layout_spectrum: 0.9981136748101562
+typography_spectrum: 0.9954852680675685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8402702875901014
+  lightness: 0.08481607353314757
+  saturation: 0.32571507850661874
+  rhythmicContrast: 0.6487665707245469
+purpose: []
