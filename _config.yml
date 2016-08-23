@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: IT Design
+    url: 'http://www.itdesign.com.pl'
+    type: external
 favicon: null
 title: IT Design
 purpose: []
