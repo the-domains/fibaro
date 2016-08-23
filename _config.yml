@@ -29,7 +29,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: IT Design
+  - name: IT Design - Twój Inteligentny Dom
     url: 'http://www.itdesign.com.pl'
     type: external
 favicon: null
